@@ -1,7 +1,7 @@
-#include <studio.h>
+#include <stdio.h>
 
-int main()
+int main (int argc, char *argv[])
 {
-	printf("Fala Gay");
+	printf("Alo");
 	return 0;
 }
